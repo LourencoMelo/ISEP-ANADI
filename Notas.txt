@@ -1,0 +1,26 @@
+﻿Estatística	Cálculo
+Excelente	A
+Excelente	A
+Excelente	C
+Muito Bom	C
+Muito Bom	C
+Muito Bom	D
+Muito Bom	E
+Bom	A
+Bom	B
+Bom	C
+Bom	C
+Bom	D
+Bom	D
+Suficiente	B
+Suficiente	B
+Suficiente	B
+Insuficiente	C
+Insuficiente	C
+Insuficiente	E
+Insuficiente	F
+Mau	D
+Mau	E
+Mau	D
+Mau	D
+Mau	D
