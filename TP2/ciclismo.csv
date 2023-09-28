@@ -1,0 +1,1001 @@
+ID,gender,Team,Background,Pro level,Winter Training Camp,altitude_results,vo2_results,hr_results,dob,Continent
+0,female,group D,Sprinter,Continental,completed,44,56,55,1988-01-09,North America
+1,male,group D,None,World Tour,none,75,68,69,1998-07-22,Africa
+2,male,group E,Cobblestones,World Tour,none,78,60,60,1995-03-19,Africa
+3,female,group E,Mountain,Continental,none,56,67,68,2003-04-27,Australia
+4,female,group C,None,Continental,completed,59,77,80,1991-05-30,South America
+5,female,group E,Cobblestones,Continental,none,40,39,41,2000-09-01,North America
+6,female,group E,Time Trial,World Tour,none,79,77,75,1994-12-22,Africa
+7,male,group E,Cobblestones,World Tour,completed,72,60,58,1992-09-24,Asia
+8,female,group B,Cobblestones,World Tour,none,59,79,70,2004-08-08,Europe
+9,male,group C,Sprinter,Continental,completed,51,51,51,2003-05-23,Africa
+10,male,group C,Cobblestones,Continental,none,65,58,54,1989-07-28,Africa
+11,male,group C,Sprinter,Continental,none,82,77,70,1987-08-18,Africa
+12,female,group C,None,World Tour,none,60,72,67,1992-09-12,Asia
+13,male,group B,Hill,World Tour,completed,57,60,65,1986-08-30,Asia
+14,male,group B,None,World Tour,none,78,73,73,1995-01-11,South America
+15,female,group D,Mountain,World Tour,completed,80,78,91,1995-06-24,Australia
+16,male,group A,Hill,World Tour,none,60,52,58,1998-09-04,Australia
+17,female,group C,None,World Tour,completed,70,75,81,2005-10-23,Africa
+18,female,group D,None,World Tour,completed,78,86,92,1991-02-15,Australia
+19,male,group B,Cobblestones,World Tour,completed,52,39,40,1998-06-01,Asia
+20,male,group C,None,Continental,none,68,63,60,2000-01-16,Australia
+21,female,group B,Time Trial,World Tour,none,71,79,79,1997-09-19,Europe
+22,female,group C,Sprinter,Continental,completed,80,82,85,1994-06-26,Europe
+23,male,group E,Hill,World Tour,none,67,52,49,1992-03-11,Asia
+24,male,group D,None,World Tour,none,72,73,68,1986-01-24,Asia
+25,female,group E,Hill,World Tour,none,87,100,93,2000-03-23,Europe
+26,female,group D,None,Continental,none,42,61,56,1990-09-02,Africa
+27,female,group A,None,Continental,completed,72,81,84,2003-01-14,Europe
+28,female,group A,Sprinter,World Tour,none,91,92,87,2004-03-22,Australia
+29,male,group B,Cobblestones,Continental,completed,65,59,52,1999-02-14,Europe
+30,female,group C,Sprinter,World Tour,none,35,41,39,1992-08-15,Australia
+31,female,group D,Cobblestones,World Tour,completed,84,92,94,2004-08-05,Europe
+32,female,group E,Mountain,World Tour,none,100,100,100,2000-06-17,Europe
+33,female,group B,Sprinter,World Tour,completed,68,76,73,1985-06-12,North America
+34,male,group D,Time Trial,Continental,none,88,82,74,1993-09-08,South America
+35,male,group C,Cobblestones,World Tour,none,60,61,51,2001-04-26,South America
+36,female,group D,None,Continental,none,74,76,79,1993-02-08,South America
+37,female,group A,Hill,Continental,none,75,87,76,1992-10-16,Europe
+38,female,group B,Time Trial,World Tour,completed,86,98,94,1998-11-11,Australia
+39,male,group B,Hill,World Tour,completed,77,68,69,1993-02-13,South America
+40,female,group E,Time Trial,World Tour,none,63,61,57,1991-09-03,Australia
+41,female,group D,None,World Tour,none,79,96,89,1988-02-22,North America
+42,male,group D,Mountain,World Tour,none,77,78,71,2004-03-17,Europe
+43,female,group C,Hill,World Tour,completed,71,71,82,1992-07-06,Asia
+44,female,group B,Cobblestones,Continental,none,48,54,52,1994-07-06,North America
+45,male,group A,None,World Tour,completed,52,49,50,1985-11-06,Asia
+46,female,group C,Hill,Continental,none,43,57,55,1991-05-10,Australia
+47,female,group C,Mountain,Continental,none,66,69,72,2000-06-04,Asia
+48,female,group D,None,Continental,completed,52,70,67,1996-11-17,Africa
+49,female,group C,None,World Tour,none,54,76,72,1990-09-06,Asia
+50,female,group D,Cobblestones,World Tour,none,40,39,44,2001-12-11,Africa
+51,female,group C,Cobblestones,World Tour,completed,69,82,82,1991-10-01,South America
+52,female,group B,Cobblestones,World Tour,none,49,56,49,2005-10-13,North America
+53,male,group C,Time Trial,Continental,completed,51,50,41,1994-10-09,Asia
+54,female,group B,None,World Tour,completed,86,100,100,2002-12-24,South America
+55,male,group E,Sprinter,World Tour,none,74,74,65,1996-06-15,Asia
+56,male,group B,Time Trial,Continental,none,31,24,19,1988-10-06,Asia
+57,female,group E,Mountain,Continental,none,40,49,47,1987-10-06,Australia
+58,female,group D,None,World Tour,none,81,86,88,1991-01-06,Asia
+59,female,group D,Time Trial,Continental,completed,55,63,72,1996-03-23,Europe
+60,male,group A,Sprinter,Continental,none,43,44,39,2005-09-08,Africa
+61,female,group D,Hill,Continental,completed,83,97,100,2000-01-14,North America
+62,female,group C,Mountain,Continental,none,80,81,80,1991-09-07,Australia
+63,female,group C,Sprinter,World Tour,none,82,85,88,1999-01-23,Europe
+64,female,group A,Hill,World Tour,none,67,75,70,2000-07-09,Australia
+65,female,group C,None,World Tour,none,67,84,82,1992-01-13,North America
+66,female,group D,Hill,World Tour,none,80,80,79,1994-03-22,Africa
+67,female,group A,None,World Tour,completed,76,78,75,2001-10-29,Asia
+68,female,group C,Cobblestones,Continental,none,57,62,59,1989-04-25,South America
+69,female,group B,Time Trial,Continental,none,44,60,57,1996-06-24,Asia
+70,female,group B,Hill,World Tour,none,69,76,72,1988-05-12,Asia
+71,male,group A,Time Trial,World Tour,none,57,53,49,1991-03-25,South America
+72,female,group E,None,World Tour,none,71,71,80,2001-01-31,South America
+73,male,group B,Hill,World Tour,none,48,39,38,1999-06-08,North America
+74,male,group E,Time Trial,Continental,completed,93,84,83,2000-04-08,Africa
+75,male,group A,Cobblestones,World Tour,none,63,63,62,1997-02-07,Africa
+76,female,group C,Cobblestones,World Tour,completed,56,60,62,1992-11-02,South America
+77,female,group C,Hill,Continental,none,60,76,65,2001-01-15,South America
+78,male,group C,Sprinter,Continental,none,50,52,50,2002-05-16,Australia
+79,female,group C,Time Trial,World Tour,none,68,78,81,1997-01-19,Europe
+80,female,group B,Hill,World Tour,none,65,70,71,1994-11-18,Asia
+81,female,group E,Hill,World Tour,completed,98,92,98,1998-11-12,North America
+82,female,group D,Hill,Continental,none,59,70,66,1988-09-22,Australia
+83,male,group D,Cobblestones,Continental,completed,61,71,70,2001-07-14,Asia
+84,male,group D,None,Continental,none,61,58,60,1999-03-16,Asia
+85,female,group B,None,World Tour,none,60,65,67,1991-06-24,Australia
+86,male,group D,Cobblestones,Continental,completed,53,55,57,1990-08-12,Australia
+87,male,group B,Sprinter,World Tour,none,65,55,50,1993-04-30,South America
+88,male,group B,Time Trial,World Tour,completed,47,55,56,2000-07-27,Asia
+89,male,group C,None,World Tour,none,76,74,73,1999-04-19,North America
+90,male,group E,Hill,World Tour,completed,82,83,80,1989-03-11,Europe
+91,male,group B,Time Trial,World Tour,none,71,68,71,1992-11-28,North America
+92,female,group C,Cobblestones,World Tour,completed,70,73,73,1993-12-10,Africa
+93,female,group C,Sprinter,World Tour,none,63,82,74,1997-08-19,South America
+94,male,group C,Cobblestones,World Tour,none,68,58,55,1989-11-01,Europe
+95,female,group C,None,Continental,completed,51,71,64,1991-06-16,North America
+96,female,group E,Cobblestones,World Tour,none,92,97,89,1985-06-14,Europe
+97,female,group E,None,World Tour,none,82,84,82,1995-05-09,Asia
+98,female,group E,Cobblestones,World Tour,completed,75,80,82,2000-07-01,North America
+99,male,group A,None,World Tour,completed,96,92,91,1991-10-27,Asia
+100,female,group C,None,World Tour,none,41,50,48,1993-05-03,Europe
+101,male,group B,Mountain,Continental,completed,51,42,47,2000-01-31,Australia
+102,male,group D,None,World Tour,none,81,75,74,1987-02-26,Australia
+103,female,group C,None,Continental,none,43,60,55,1989-01-10,Australia
+104,female,group C,Cobblestones,World Tour,none,71,71,70,2002-07-05,North America
+105,female,group C,Time Trial,Continental,completed,54,69,70,1993-05-21,Asia
+106,male,group B,Hill,World Tour,none,63,61,56,1992-11-26,North America
+107,male,group D,None,Continental,none,42,39,44,1987-03-10,Australia
+108,male,group C,Sprinter,World Tour,none,44,41,29,2004-09-29,North America
+109,female,group C,Time Trial,Continental,none,83,85,85,1995-04-08,Australia
+110,female,group D,None,Continental,none,58,78,71,1998-04-15,South America
+111,male,group A,Time Trial,Continental,completed,64,70,64,1999-02-04,Africa
+112,female,group E,None,World Tour,completed,79,82,85,1990-10-30,Australia
+113,female,group D,None,World Tour,none,74,79,79,2002-08-07,Asia
+114,male,group E,Sprinter,Continental,none,70,82,71,1987-02-14,South America
+115,female,group A,Mountain,World Tour,none,66,75,70,2000-12-03,North America
+116,male,group A,Hill,World Tour,none,74,75,67,1996-02-24,Asia
+117,female,group C,Time Trial,World Tour,completed,75,79,82,2000-07-30,Europe
+118,female,group E,Sprinter,World Tour,none,88,93,90,1996-03-11,Africa
+119,male,group B,Hill,World Tour,completed,75,73,67,2001-04-26,Asia
+120,male,group D,None,World Tour,completed,61,53,60,2005-02-04,South America
+121,male,group B,Hill,World Tour,none,55,47,51,1996-03-24,North America
+122,male,group C,Hill,World Tour,none,66,62,52,1989-08-24,Europe
+123,female,group D,None,World Tour,completed,70,69,81,1997-10-24,Asia
+124,female,group B,None,World Tour,completed,61,67,71,1987-06-28,Asia
+125,female,group B,None,Continental,none,37,39,41,2005-05-02,North America
+126,female,group B,Time Trial,World Tour,completed,73,88,89,2003-04-18,Europe
+127,male,group B,Hill,World Tour,none,61,61,58,2001-02-23,Europe
+128,female,group C,Hill,World Tour,completed,41,56,55,1998-12-13,Europe
+129,male,group B,Hill,Continental,completed,74,75,73,1993-05-28,Asia
+130,male,group A,None,World Tour,none,85,72,74,1996-07-31,Europe
+131,female,group D,Sprinter,Continental,completed,52,59,60,2005-06-30,South America
+132,female,group E,Sprinter,World Tour,completed,60,74,78,1991-12-04,North America
+133,female,group C,None,Continental,none,71,74,77,1990-03-19,Asia
+134,female,group C,Cobblestones,World Tour,none,72,87,77,1998-01-28,Europe
+135,female,group A,Hill,World Tour,none,60,64,68,1997-05-18,North America
+136,female,group D,Sprinter,World Tour,completed,70,66,64,1999-04-14,Europe
+137,male,group C,Time Trial,World Tour,none,87,79,80,1985-05-24,South America
+138,male,group D,Cobblestones,World Tour,none,57,51,45,2003-05-17,North America
+139,male,group C,None,World Tour,completed,96,96,98,1985-06-18,South America
+140,male,group D,Hill,World Tour,completed,96,86,92,1992-08-18,South America
+141,female,group A,None,Continental,none,48,58,56,2002-01-09,Africa
+142,female,group B,None,World Tour,none,70,82,82,1999-04-27,Europe
+143,male,group B,None,Continental,none,53,36,40,2005-07-22,Australia
+144,female,group B,None,World Tour,completed,67,83,82,2000-12-09,South America
+145,female,group E,Cobblestones,World Tour,completed,81,79,79,1988-06-09,Australia
+146,female,group B,Cobblestones,World Tour,none,78,84,80,1990-08-05,Europe
+147,male,group D,None,Continental,completed,58,49,47,2002-04-28,Africa
+148,female,group C,Hill,World Tour,none,70,74,67,1995-01-31,North America
+149,female,group B,Cobblestones,World Tour,none,37,56,54,2004-02-18,South America
+150,male,group D,None,World Tour,completed,70,66,62,1991-11-21,Asia
+151,female,group C,None,World Tour,completed,81,85,93,1998-04-10,South America
+152,male,group B,Hill,World Tour,none,72,68,67,1987-04-22,Europe
+153,female,group D,Time Trial,Continental,completed,77,87,94,1987-08-24,South America
+154,male,group D,Cobblestones,World Tour,completed,87,87,80,1997-06-08,Europe
+155,male,group A,Sprinter,World Tour,none,77,61,65,1987-08-01,Africa
+156,female,group D,Mountain,World Tour,none,82,86,87,2001-01-03,North America
+157,female,group C,None,World Tour,none,58,67,68,2001-06-20,Europe
+158,female,group E,Sprinter,World Tour,none,81,91,90,1997-05-06,Asia
+159,female,group D,Cobblestones,World Tour,none,64,66,65,1991-11-08,South America
+160,female,group B,Mountain,World Tour,completed,80,78,80,1990-11-22,South America
+161,female,group C,Time Trial,World Tour,none,66,75,72,1986-02-26,Europe
+162,male,group D,Sprinter,Continental,completed,71,75,67,1995-06-22,Europe
+163,female,group B,Hill,World Tour,none,62,73,68,1988-08-01,Australia
+164,male,group C,None,Continental,none,63,57,57,1992-03-29,South America
+165,male,group D,Hill,World Tour,none,75,67,68,1986-11-18,South America
+166,male,group E,Mountain,Continental,completed,92,90,82,1990-05-03,Australia
+167,female,group C,Cobblestones,World Tour,none,54,58,54,1992-09-20,Asia
+168,female,group D,Time Trial,World Tour,completed,75,85,89,1990-07-24,North America
+169,female,group C,Time Trial,Continental,none,63,71,71,2003-04-15,Europe
+170,male,group B,Sprinter,Continental,completed,52,62,54,1999-01-30,South America
+171,male,group B,Time Trial,Continental,completed,63,61,58,1992-01-03,North America
+172,male,group D,Sprinter,World Tour,none,80,58,65,1999-01-07,Europe
+173,male,group E,Time Trial,World Tour,none,75,63,63,2002-01-13,Europe
+174,male,group E,None,World Tour,none,84,79,74,1999-02-24,Europe
+175,female,group E,None,World Tour,completed,83,83,80,1992-11-16,South America
+176,male,group B,None,World Tour,completed,77,82,78,1995-07-06,Australia
+177,male,group B,Hill,Continental,completed,54,68,63,1991-06-01,Africa
+178,female,group A,Hill,World Tour,none,71,86,84,2001-11-09,Europe
+179,female,group D,Hill,World Tour,completed,77,83,93,2003-01-25,Europe
+180,male,group B,Cobblestones,Continental,completed,57,59,51,1996-06-04,Australia
+181,male,group D,Sprinter,Continental,none,62,57,57,1990-08-22,Europe
+182,male,group E,Time Trial,World Tour,none,73,71,71,1985-09-12,South America
+183,male,group C,Hill,World Tour,none,77,62,62,1998-10-29,Europe
+184,male,group C,Sprinter,World Tour,none,75,74,68,1985-06-04,Asia
+185,male,group C,Hill,Continental,none,44,40,31,2005-08-25,North America
+186,female,group E,Sprinter,World Tour,completed,78,77,78,1990-12-15,Asia
+187,female,group C,Cobblestones,World Tour,none,51,68,62,2002-12-08,Australia
+188,male,group C,Hill,World Tour,none,85,88,84,1992-11-30,Africa
+189,female,group B,Sprinter,World Tour,completed,69,75,80,1992-12-06,Australia
+190,female,group D,Hill,World Tour,completed,72,85,88,2004-12-26,South America
+191,female,group C,None,World Tour,none,61,77,70,1991-04-14,North America
+192,female,group D,Time Trial,Continental,completed,52,66,77,2005-04-08,North America
+193,female,group E,None,World Tour,completed,67,75,73,1995-06-28,South America
+194,female,group C,Cobblestones,World Tour,completed,73,78,79,1996-11-16,South America
+195,male,group C,None,World Tour,completed,78,75,72,1990-10-15,North America
+196,female,group B,Sprinter,World Tour,completed,50,72,68,1998-12-31,Europe
+197,male,group C,Hill,Continental,none,86,75,77,2000-07-16,North America
+198,female,group D,Cobblestones,World Tour,none,68,63,67,1994-06-01,Asia
+199,female,group B,Mountain,Continental,none,65,80,79,1993-12-24,South America
+200,female,group E,Hill,Continental,completed,72,86,88,2004-05-02,Australia
+201,male,group B,Sprinter,Continental,none,28,32,34,1987-01-02,South America
+202,female,group C,Time Trial,World Tour,none,70,81,76,2004-08-11,Africa
+203,female,group C,Time Trial,World Tour,none,70,85,79,1997-08-10,Asia
+204,male,group D,Sprinter,World Tour,none,73,73,73,1996-05-31,Australia
+205,female,group B,Hill,World Tour,none,67,80,76,1991-09-15,North America
+206,male,group E,Hill,World Tour,completed,89,77,75,2003-04-24,Europe
+207,female,group C,Time Trial,World Tour,none,58,68,67,2005-06-14,Europe
+208,female,group B,Time Trial,World Tour,none,73,76,70,1985-12-05,Asia
+209,male,group D,Sprinter,World Tour,none,69,65,64,2004-10-12,South America
+210,male,group A,Hill,Continental,none,70,79,75,1996-06-30,Australia
+211,female,group B,Sprinter,Continental,none,51,56,47,1985-02-21,South America
+212,female,group D,Sprinter,Continental,completed,54,65,66,1995-06-13,South America
+213,female,group D,Time Trial,World Tour,completed,87,98,100,2002-04-10,South America
+214,male,group C,Sprinter,Continental,completed,58,48,51,2002-05-15,North America
+215,male,group B,Hill,World Tour,none,81,71,75,1990-03-19,Asia
+216,male,group B,None,Continental,none,56,52,46,2005-08-01,Africa
+217,female,group B,Mountain,World Tour,completed,74,81,84,2003-04-02,Europe
+218,female,group C,None,World Tour,none,60,74,65,2000-06-27,Europe
+219,female,group C,None,World Tour,none,46,61,55,1988-08-24,South America
+220,female,group B,Sprinter,Continental,completed,51,52,55,1987-07-01,Asia
+221,female,group D,Sprinter,Continental,completed,65,69,73,1986-03-11,South America
+222,female,group E,Time Trial,Continental,completed,90,100,100,2001-08-20,Africa
+223,male,group A,None,World Tour,none,62,60,59,1989-11-23,Africa
+224,female,group D,Mountain,World Tour,none,87,100,100,2003-08-12,South America
+225,male,group E,Sprinter,Continental,completed,62,62,55,1985-10-02,Europe
+226,male,group D,Hill,World Tour,completed,87,86,87,2001-10-01,Australia
+227,male,group D,Sprinter,World Tour,none,78,75,66,2005-02-16,North America
+228,male,group D,Hill,World Tour,none,81,77,83,1988-01-07,Africa
+229,female,group B,Cobblestones,World Tour,none,70,81,78,1993-10-24,Africa
+230,male,group E,Sprinter,World Tour,none,63,49,46,2005-02-09,North America
+231,male,group E,None,Continental,none,55,50,43,2002-01-18,Europe
+232,male,group E,Time Trial,World Tour,none,73,66,66,1988-12-18,North America
+233,female,group D,Hill,Continental,completed,54,65,69,1996-02-07,North America
+234,female,group E,Hill,Continental,completed,67,89,91,1992-02-20,Europe
+235,female,group B,Time Trial,World Tour,none,81,83,85,1997-10-17,Asia
+236,female,group C,Cobblestones,World Tour,none,62,69,65,1990-05-14,South America
+237,female,group B,Mountain,Continental,completed,66,92,92,1994-11-09,Europe
+238,female,group B,Sprinter,World Tour,completed,49,54,61,1999-06-11,Africa
+239,female,group C,Hill,World Tour,none,58,68,67,2001-07-04,South America
+240,male,group A,Time Trial,World Tour,none,57,64,67,1995-01-31,South America
+241,female,group E,Time Trial,Continental,completed,75,74,78,1995-01-06,North America
+242,female,group C,Time Trial,World Tour,none,59,63,58,1996-06-02,North America
+243,female,group B,Hill,Continental,completed,76,75,82,2005-12-30,Australia
+244,male,group C,None,World Tour,none,66,70,62,2005-07-19,Europe
+245,male,group B,Time Trial,Continental,completed,74,82,84,1993-12-17,South America
+246,male,group B,Hill,Continental,none,52,58,48,1994-06-17,Africa
+247,female,group D,Sprinter,Continental,none,57,77,71,2004-03-26,Asia
+248,male,group B,None,World Tour,completed,75,73,70,1993-08-05,Australia
+249,male,group B,Sprinter,World Tour,none,56,53,50,1995-10-03,Europe
+250,male,group D,Time Trial,World Tour,none,76,87,85,1998-07-18,Europe
+251,male,group B,Sprinter,World Tour,none,72,69,67,1985-12-12,North America
+252,male,group E,None,Continental,none,63,58,56,2003-08-22,Africa
+253,male,group B,Mountain,Continental,completed,84,85,84,1991-05-21,Australia
+254,male,group E,Hill,World Tour,none,67,54,46,1989-03-01,North America
+255,female,group B,None,World Tour,none,60,68,64,2000-11-24,Asia
+256,male,group C,None,World Tour,completed,93,82,89,1986-09-06,South America
+257,male,group C,Hill,World Tour,none,67,59,50,1989-03-09,Europe
+258,male,group D,None,World Tour,completed,72,73,74,2002-12-10,North America
+259,female,group B,Time Trial,World Tour,none,85,85,90,1993-11-05,South America
+260,female,group E,None,Continental,none,76,77,79,1992-05-18,Africa
+261,male,group D,None,World Tour,none,62,66,62,1985-08-17,Africa
+262,male,group D,Mountain,Continental,completed,46,48,49,1992-07-03,Europe
+263,female,group E,Sprinter,World Tour,none,92,92,88,1986-03-30,South America
+264,male,group D,Sprinter,World Tour,none,73,60,64,1998-02-08,Australia
+265,female,group B,Sprinter,World Tour,none,56,60,65,1986-07-13,Africa
+266,female,group E,Cobblestones,Continental,none,68,75,67,2002-01-26,Asia
+267,male,group B,Hill,Continental,completed,87,79,85,1995-11-22,South America
+268,female,group D,Cobblestones,World Tour,none,80,93,92,1991-06-01,South America
+269,female,group D,Cobblestones,World Tour,completed,54,64,69,1987-04-19,Asia
+270,female,group B,Cobblestones,Continental,completed,31,54,50,2004-09-02,North America
+271,female,group C,None,World Tour,completed,74,89,90,1992-07-17,Africa
+272,male,group D,Cobblestones,Continental,none,82,74,70,1989-08-26,Australia
+273,male,group B,Mountain,World Tour,none,49,44,43,1993-01-28,Asia
+274,male,group C,None,World Tour,none,91,91,86,2001-12-16,Africa
+275,female,group C,Sprinter,World Tour,none,81,90,90,2003-01-24,Europe
+276,male,group C,None,World Tour,completed,71,74,73,1996-03-12,North America
+277,male,group E,None,World Tour,completed,99,82,85,1997-01-23,South America
+278,female,group D,Hill,Continental,none,44,58,60,1995-09-13,Asia
+279,male,group E,Hill,Continental,none,78,80,73,1995-12-29,Africa
+280,female,group B,Cobblestones,World Tour,none,50,56,62,1992-11-24,North America
+281,female,group C,Time Trial,Continental,completed,53,71,65,1988-06-05,South America
+282,female,group B,Cobblestones,World Tour,completed,76,92,93,2002-01-06,Europe
+283,female,group D,Time Trial,World Tour,none,97,100,97,1994-09-08,Africa
+284,female,group C,Hill,World Tour,completed,66,81,88,1999-04-26,Asia
+285,female,group A,Cobblestones,World Tour,none,51,64,54,2002-02-09,Asia
+286,female,group D,Sprinter,World Tour,none,51,63,66,2005-05-18,Europe
+287,male,group C,Sprinter,Continental,completed,57,58,60,2004-01-12,South America
+288,male,group D,Sprinter,World Tour,none,75,83,78,2003-05-04,Asia
+289,male,group B,None,Continental,completed,61,60,60,1990-09-10,South America
+290,female,group C,None,World Tour,completed,53,61,57,1988-03-11,Europe
+291,female,group C,Mountain,World Tour,none,78,83,87,1985-02-14,North America
+292,female,group C,None,World Tour,none,47,67,67,1985-12-31,Africa
+293,male,group D,Hill,World Tour,none,77,69,75,1997-09-09,Africa
+294,male,group C,None,World Tour,completed,71,80,74,1987-01-09,South America
+295,male,group C,Sprinter,Continental,completed,49,52,52,1999-06-03,South America
+296,female,group C,Hill,World Tour,none,28,49,40,1991-04-17,Australia
+297,male,group D,Hill,World Tour,none,60,65,62,1997-10-08,Africa
+298,female,group C,Hill,World Tour,completed,73,73,79,1997-04-26,Europe
+299,female,group C,Sprinter,World Tour,none,40,48,48,1987-04-02,Africa
+300,male,group C,Cobblestones,World Tour,completed,76,79,77,1993-02-13,Africa
+301,female,group B,Cobblestones,World Tour,completed,60,75,73,2000-07-12,Australia
+302,male,group C,None,Continental,completed,44,44,43,1986-10-21,Africa
+303,male,group C,Hill,World Tour,none,55,54,47,1989-08-13,North America
+304,female,group B,Time Trial,World Tour,none,82,89,96,2002-07-18,Asia
+305,female,group E,Cobblestones,World Tour,completed,78,75,78,2004-01-07,North America
+306,female,group C,None,Continental,none,49,62,62,1993-11-13,Africa
+307,female,group C,Sprinter,Continental,none,36,47,46,2001-04-04,South America
+308,female,group B,Cobblestones,World Tour,completed,42,53,56,1995-02-11,Africa
+309,female,group E,Sprinter,World Tour,none,49,57,56,1985-12-03,North America
+310,male,group C,Hill,Continental,none,77,68,63,2003-06-11,Europe
+311,female,group C,None,Continental,none,42,62,56,2000-11-14,Australia
+312,male,group E,Hill,Continental,completed,100,93,94,1997-09-30,North America
+313,female,group E,Hill,World Tour,completed,60,60,64,1989-08-23,Europe
+314,male,group D,Sprinter,World Tour,none,65,74,68,1989-05-24,Africa
+315,female,group A,Sprinter,World Tour,none,59,71,71,2004-11-26,Asia
+316,male,group D,None,Continental,completed,65,70,69,1987-03-19,Europe
+317,male,group A,None,World Tour,completed,74,70,75,1995-06-12,Asia
+318,male,group B,None,Continental,none,48,50,46,1987-08-14,Australia
+319,female,group C,None,World Tour,none,57,56,59,1991-01-25,North America
+320,male,group B,Hill,Continental,none,62,58,52,1987-08-21,Asia
+321,male,group E,None,World Tour,none,70,49,48,1995-07-26,South America
+322,male,group B,None,Continental,none,69,72,64,1998-04-19,Europe
+323,male,group D,None,World Tour,completed,91,91,90,1985-05-19,North America
+324,male,group C,Hill,Continental,none,50,44,44,1996-08-06,North America
+325,male,group B,None,Continental,none,53,53,52,2000-12-05,North America
+326,female,group D,Time Trial,World Tour,none,44,55,59,1988-10-09,South America
+327,male,group E,None,World Tour,none,65,53,47,1990-06-18,Europe
+328,female,group B,Time Trial,World Tour,none,64,70,75,2001-07-24,Australia
+329,male,group A,None,Continental,none,44,46,34,1999-10-01,Europe
+330,male,group D,Sprinter,Continental,none,82,75,75,1994-03-08,South America
+331,male,group C,Hill,Continental,none,75,66,64,1989-06-05,North America
+332,male,group C,None,World Tour,completed,82,79,71,1999-10-23,North America
+333,female,group D,Hill,Continental,none,66,76,72,1987-10-29,Australia
+334,male,group B,Cobblestones,Continental,none,44,50,47,1999-12-11,South America
+335,male,group E,None,World Tour,none,87,69,74,1990-07-10,Australia
+336,female,group B,None,World Tour,none,90,92,97,1992-10-05,Australia
+337,male,group B,Mountain,Continental,none,81,85,73,2001-11-21,Australia
+338,male,group C,Hill,Continental,none,70,69,72,2005-08-01,Australia
+339,male,group D,Cobblestones,World Tour,none,70,56,60,1992-01-26,South America
+340,female,group B,Sprinter,Continental,none,68,69,67,1998-07-01,North America
+341,male,group D,Cobblestones,World Tour,none,67,52,49,1998-03-26,Africa
+342,female,group C,None,Continental,completed,57,62,65,1985-03-01,North America
+343,female,group C,Mountain,World Tour,completed,89,94,93,2003-02-08,South America
+344,male,group C,None,World Tour,completed,81,76,80,2005-03-20,North America
+345,female,group B,None,World Tour,none,48,59,60,2002-02-06,Africa
+346,female,group C,Mountain,World Tour,none,56,70,59,1990-08-03,Europe
+347,female,group B,Sprinter,Continental,none,33,46,40,1990-12-29,Europe
+348,female,group C,Hill,World Tour,completed,71,77,83,1985-12-21,Australia
+349,female,group E,Mountain,World Tour,completed,93,100,100,1998-10-23,South America
+350,female,group D,Cobblestones,Continental,none,47,49,41,1995-06-08,Australia
+351,female,group C,Hill,Continental,completed,62,78,72,1993-09-14,Africa
+352,male,group E,Cobblestones,World Tour,completed,68,62,62,1997-05-22,Asia
+353,male,group A,None,World Tour,completed,71,74,70,1991-05-15,Europe
+354,female,group C,None,Continental,completed,47,71,65,1988-05-31,South America
+355,female,group B,Time Trial,World Tour,none,74,82,85,1994-03-22,North America
+356,male,group D,Sprinter,Continental,none,46,41,40,1985-03-20,Africa
+357,male,group B,Cobblestones,World Tour,none,58,61,55,2003-03-13,North America
+358,male,group D,Cobblestones,Continental,none,54,48,37,2002-09-09,South America
+359,female,group A,Sprinter,World Tour,none,44,46,44,1994-12-03,North America
+360,female,group C,None,World Tour,none,59,66,62,1986-06-25,Europe
+361,male,group A,Time Trial,Continental,completed,75,76,74,1995-10-07,Asia
+362,female,group D,Cobblestones,World Tour,none,56,69,64,1997-01-16,North America
+363,female,group A,Hill,World Tour,completed,63,65,71,1988-10-13,South America
+364,female,group B,Mountain,World Tour,none,72,79,73,1996-03-29,Europe
+365,male,group C,Sprinter,Continental,none,64,63,53,1989-09-04,North America
+366,female,group B,Cobblestones,World Tour,none,47,61,58,1998-04-14,Australia
+367,female,group C,Cobblestones,Continental,none,62,69,64,1995-03-23,North America
+368,female,group D,Time Trial,World Tour,none,58,67,75,2001-07-20,Australia
+369,male,group C,Time Trial,World Tour,none,63,61,56,1989-09-13,South America
+370,male,group D,Cobblestones,World Tour,none,87,83,78,1986-07-18,Africa
+371,female,group D,Hill,Continental,none,66,60,61,1998-12-14,Australia
+372,female,group B,Hill,World Tour,none,78,93,89,2000-12-14,Australia
+373,female,group C,Time Trial,World Tour,none,88,86,95,1996-08-31,Europe
+374,male,group A,Cobblestones,World Tour,completed,46,46,48,2003-03-15,North America
+375,male,group C,Sprinter,World Tour,none,71,70,66,1992-12-02,Africa
+376,male,group D,Time Trial,World Tour,completed,91,97,100,1987-02-04,Asia
+377,female,group D,Hill,Continental,completed,79,96,91,1988-11-05,Europe
+378,female,group B,None,Continental,completed,63,78,81,2000-03-01,South America
+379,female,group C,Hill,World Tour,completed,53,78,76,1998-12-05,North America
+380,female,group E,Sprinter,World Tour,completed,96,86,89,2003-02-01,Australia
+381,female,group E,Hill,Continental,none,79,76,82,1999-12-31,Australia
+382,male,group C,Cobblestones,World Tour,none,71,64,67,1997-06-08,Europe
+383,female,group C,None,World Tour,completed,77,79,84,1995-11-22,Australia
+384,female,group E,Mountain,Continental,none,61,75,75,1996-06-03,Asia
+385,male,group C,Time Trial,World Tour,none,60,73,69,1999-05-21,North America
+386,female,group D,Hill,World Tour,completed,73,84,97,1997-08-01,Asia
+387,male,group C,Hill,Continental,none,60,56,52,1988-10-08,Africa
+388,female,group B,Time Trial,World Tour,none,58,65,70,1992-11-13,South America
+389,male,group C,Hill,Continental,completed,73,79,78,1999-03-31,Europe
+390,male,group C,None,Continental,none,79,76,69,1989-06-05,Europe
+391,male,group D,None,World Tour,none,57,52,47,2000-09-14,Asia
+392,male,group E,Hill,World Tour,none,92,82,82,2001-08-23,Africa
+393,female,group E,Cobblestones,World Tour,none,84,88,83,1999-06-06,North America
+394,male,group C,Cobblestones,Continental,none,67,68,66,1989-10-07,Africa
+395,female,group E,Cobblestones,Continental,none,59,65,59,2004-05-30,North America
+396,female,group D,None,Continental,none,49,44,52,1988-10-03,Europe
+397,male,group C,Hill,World Tour,completed,78,80,82,1986-07-19,Asia
+398,female,group D,None,Continental,none,67,72,69,1992-04-20,North America
+399,male,group A,Mountain,World Tour,none,84,87,81,1991-08-31,Europe
+400,female,group D,Cobblestones,World Tour,none,55,62,62,1993-08-01,North America
+401,female,group B,None,World Tour,none,55,73,70,1989-12-14,Africa
+402,female,group D,Sprinter,World Tour,completed,92,98,100,1991-08-10,North America
+403,male,group B,Hill,Continental,completed,55,55,52,1997-09-06,South America
+404,female,group C,None,Continental,completed,64,83,81,1996-07-12,Asia
+405,male,group D,None,World Tour,none,74,60,60,1990-12-12,North America
+406,female,group C,Sprinter,World Tour,none,59,62,62,1999-07-05,Australia
+407,female,group C,Sprinter,World Tour,completed,60,69,60,1991-07-19,South America
+408,male,group E,Cobblestones,Continental,none,70,57,48,2001-11-17,South America
+409,female,group D,None,Continental,none,69,74,79,1995-02-18,Asia
+410,female,group B,None,World Tour,none,74,84,76,1988-07-27,South America
+411,male,group D,Sprinter,Continental,none,55,47,50,1990-08-21,Asia
+412,male,group A,Sprinter,World Tour,completed,84,85,85,1992-05-29,Africa
+413,female,group C,Sprinter,World Tour,completed,72,77,81,2001-04-08,North America
+414,male,group C,Cobblestones,World Tour,none,74,70,60,1985-07-10,Africa
+415,female,group D,Hill,Continental,completed,44,62,67,1991-08-10,Australia
+416,male,group B,Sprinter,Continental,completed,49,45,45,1988-01-24,North America
+417,female,group A,Sprinter,Continental,none,66,77,74,1992-12-29,Africa
+418,female,group C,Hill,World Tour,none,46,64,67,1987-08-02,Australia
+419,male,group B,None,Continental,completed,37,38,43,2000-04-27,North America
+420,female,group E,Sprinter,World Tour,none,76,77,78,2001-02-19,Africa
+421,female,group C,None,World Tour,none,68,66,65,1991-10-06,Asia
+422,male,group D,None,Continental,none,72,69,73,1988-10-10,Asia
+423,male,group C,Cobblestones,World Tour,none,28,30,27,1989-06-25,Africa
+424,female,group E,Hill,World Tour,none,70,78,71,2004-09-01,Africa
+425,female,group D,Sprinter,World Tour,none,73,79,79,1992-11-14,Asia
+426,female,group D,Hill,World Tour,none,66,70,75,2003-09-05,South America
+427,female,group C,None,Continental,completed,53,55,53,1996-01-13,South America
+428,female,group D,Cobblestones,World Tour,none,75,79,78,1998-11-18,Europe
+429,male,group D,None,Continental,none,46,57,53,1998-08-22,Australia
+430,female,group D,Sprinter,Continental,none,40,47,47,1985-11-07,Asia
+431,female,group C,Cobblestones,World Tour,none,68,81,76,2000-01-31,Africa
+432,male,group B,Cobblestones,World Tour,none,46,41,38,2001-04-09,Australia
+433,female,group D,Sprinter,World Tour,none,65,71,74,2004-07-14,Europe
+434,male,group A,None,World Tour,none,55,39,35,1996-09-25,Australia
+435,female,group D,Cobblestones,World Tour,completed,65,83,80,2002-10-02,North America
+436,male,group C,Sprinter,World Tour,none,68,71,67,2004-10-12,Asia
+437,male,group C,Time Trial,Continental,none,78,85,80,1995-01-27,Africa
+438,male,group B,Sprinter,World Tour,none,83,78,67,1990-03-10,Africa
+439,male,group C,Hill,World Tour,completed,57,61,63,1986-07-17,North America
+440,male,group C,None,World Tour,none,61,54,56,1995-07-26,North America
+441,male,group D,None,World Tour,completed,70,68,76,1989-09-10,Asia
+442,female,group C,Hill,World Tour,none,71,79,74,1985-07-26,North America
+443,female,group E,Time Trial,World Tour,none,78,91,91,1992-10-30,Australia
+444,male,group D,None,World Tour,none,82,73,76,2005-12-15,Europe
+445,male,group B,Hill,World Tour,none,61,55,57,1990-06-01,Australia
+446,female,group E,Cobblestones,Continental,completed,62,68,73,2003-09-23,Europe
+447,male,group E,Hill,World Tour,completed,98,94,96,1998-10-11,North America
+448,male,group D,Hill,Continental,none,74,73,72,2002-05-17,South America
+449,male,group C,None,Continental,none,74,79,73,1999-04-10,Australia
+450,male,group C,None,World Tour,none,71,74,71,2000-05-21,Australia
+451,male,group D,Time Trial,World Tour,none,88,78,75,1990-05-09,Africa
+452,male,group D,Cobblestones,World Tour,none,61,57,57,1986-02-06,Africa
+453,male,group D,None,World Tour,none,68,56,56,1987-03-02,South America
+454,male,group B,Hill,World Tour,completed,55,57,47,2005-05-24,Asia
+455,male,group D,Cobblestones,Continental,completed,70,68,68,1991-01-24,North America
+456,male,group D,None,World Tour,none,74,67,69,2001-11-24,Asia
+457,male,group C,Hill,World Tour,completed,72,69,74,1992-10-16,Asia
+458,male,group C,None,Continental,completed,60,65,65,1990-10-15,North America
+459,female,group C,Mountain,World Tour,completed,72,75,80,1994-02-06,Australia
+460,female,group B,Sprinter,World Tour,none,72,84,82,1987-10-28,Asia
+461,female,group D,None,World Tour,none,61,54,60,2003-04-10,South America
+462,male,group D,None,Continental,completed,84,81,77,1989-11-25,Australia
+463,male,group A,Mountain,World Tour,none,73,76,63,2001-08-24,Africa
+464,male,group E,Hill,World Tour,none,100,85,83,2004-10-26,North America
+465,female,group C,Time Trial,World Tour,none,66,65,67,1990-03-16,Europe
+466,male,group B,None,Continental,completed,57,47,51,2002-01-18,Africa
+467,female,group C,Sprinter,World Tour,none,64,71,65,1986-02-15,Australia
+468,male,group B,Time Trial,World Tour,none,75,83,71,1988-03-22,North America
+469,female,group C,Time Trial,Continental,completed,84,91,95,1993-12-04,Africa
+470,female,group C,Hill,World Tour,none,46,62,59,1998-10-07,North America
+471,male,group C,Hill,Continental,none,52,56,56,1985-12-13,Australia
+472,female,group B,None,World Tour,none,83,95,93,1988-05-26,Asia
+473,male,group D,Time Trial,Continental,none,61,70,63,1985-06-03,North America
+474,male,group D,Cobblestones,World Tour,completed,67,75,73,2005-03-23,South America
+475,male,group D,Time Trial,Continental,none,65,55,56,1996-03-30,Australia
+476,female,group D,Cobblestones,World Tour,none,89,96,91,2001-10-16,South America
+477,female,group D,None,World Tour,none,58,63,64,1991-12-04,North America
+478,female,group C,Sprinter,World Tour,completed,52,70,67,2004-02-02,Africa
+479,male,group B,None,Continental,completed,74,68,68,1987-09-30,South America
+480,male,group D,Sprinter,World Tour,none,81,68,63,1998-09-14,Europe
+481,male,group C,Time Trial,World Tour,completed,63,62,66,1995-08-17,Australia
+482,female,group B,None,World Tour,none,57,72,77,2003-05-06,North America
+483,male,group E,Cobblestones,Continental,none,75,63,59,1998-04-02,North America
+484,male,group D,None,World Tour,completed,74,69,73,1987-06-17,Australia
+485,male,group D,Hill,World Tour,none,79,73,70,1990-11-18,Australia
+486,male,group D,None,World Tour,completed,88,77,86,1988-07-31,Asia
+487,female,group C,None,Continental,none,45,54,51,2000-01-31,South America
+488,male,group B,Time Trial,World Tour,none,62,58,59,2004-10-26,Asia
+489,male,group D,Hill,World Tour,none,87,82,86,2003-08-29,North America
+490,female,group D,Hill,Continental,none,65,73,75,1993-09-13,Africa
+491,female,group C,Hill,World Tour,none,64,70,72,1993-05-14,Africa
+492,male,group C,Cobblestones,World Tour,none,73,73,63,1992-07-21,Africa
+493,male,group E,Sprinter,Continental,none,75,72,67,1985-10-31,Australia
+494,female,group C,Mountain,Continental,completed,73,91,98,1988-07-25,Australia
+495,male,group E,Time Trial,World Tour,completed,100,95,95,2002-04-16,Asia
+496,female,group C,Hill,Continental,none,71,88,85,1994-09-06,Europe
+497,male,group D,None,World Tour,none,96,81,88,2003-02-17,North America
+498,female,group E,Sprinter,World Tour,none,71,74,73,2004-01-15,Africa
+499,male,group C,None,World Tour,none,75,71,67,1992-09-03,South America
+500,male,group D,Cobblestones,World Tour,none,79,61,68,1988-02-04,Australia
+501,male,group E,Hill,Continental,none,89,83,81,1992-12-27,South America
+502,male,group C,Hill,Continental,completed,46,50,42,1987-08-30,Europe
+503,female,group C,Hill,Continental,none,47,58,56,1990-08-21,Europe
+504,female,group D,None,Continental,completed,61,77,71,1990-01-20,North America
+505,male,group E,Sprinter,World Tour,none,63,57,60,1996-01-16,South America
+506,male,group B,Hill,Continental,none,44,51,43,2000-12-15,Africa
+507,female,group C,Time Trial,Continental,completed,68,73,76,1989-12-21,Asia
+508,male,group E,Cobblestones,World Tour,none,59,50,51,2001-06-19,Australia
+509,male,group B,Hill,Continental,none,75,72,69,1997-02-06,Africa
+510,female,group C,None,Continental,completed,59,68,70,1990-11-24,Europe
+511,female,group A,Sprinter,World Tour,completed,76,76,86,1990-11-13,Australia
+512,female,group B,Mountain,World Tour,completed,65,54,65,1996-06-02,Europe
+513,male,group A,Time Trial,Continental,none,72,77,73,2001-03-14,North America
+514,female,group E,Sprinter,World Tour,completed,95,100,100,1994-11-21,Asia
+515,male,group D,Cobblestones,World Tour,completed,52,58,51,1989-03-16,Africa
+516,male,group E,None,Continental,none,73,73,60,1996-06-21,South America
+517,female,group A,Hill,Continental,completed,64,84,86,1998-01-03,Asia
+518,female,group B,Time Trial,Continental,completed,87,97,98,1990-01-07,Africa
+519,male,group B,Hill,World Tour,none,62,57,53,1999-08-17,Asia
+520,female,group A,Sprinter,World Tour,none,47,60,60,1993-11-12,Asia
+521,male,group D,Time Trial,Continental,none,70,75,76,2001-03-07,Australia
+522,female,group C,Cobblestones,Continental,none,40,61,53,1987-11-21,Australia
+523,male,group D,Cobblestones,Continental,completed,37,27,28,1996-03-15,Australia
+524,female,group D,Hill,World Tour,completed,86,96,97,2004-01-09,North America
+525,female,group E,Sprinter,World Tour,none,70,67,69,1999-10-11,North America
+526,male,group E,Sprinter,World Tour,completed,60,59,54,1988-01-21,South America
+527,female,group E,Hill,Continental,completed,77,85,83,2002-07-25,South America
+528,female,group A,Sprinter,World Tour,completed,56,81,78,2005-03-03,Australia
+529,female,group D,Sprinter,World Tour,none,63,78,75,1991-07-25,Australia
+530,female,group B,Sprinter,World Tour,completed,98,97,94,1998-06-26,South America
+531,male,group C,Cobblestones,World Tour,none,70,71,66,2004-10-12,North America
+532,female,group B,Sprinter,Continental,completed,45,64,57,1999-08-31,Australia
+533,female,group C,None,Continental,none,62,70,74,1988-05-20,Australia
+534,female,group D,Cobblestones,World Tour,none,72,85,86,1985-12-30,Africa
+535,male,group C,None,World Tour,none,63,45,51,1989-06-12,Europe
+536,female,group C,Cobblestones,World Tour,completed,58,73,75,1994-07-20,Africa
+537,male,group B,Hill,Continental,none,78,75,73,1990-11-11,North America
+538,male,group D,Sprinter,Continental,none,60,52,48,2004-09-24,Africa
+539,male,group D,Hill,World Tour,none,78,74,78,1999-04-11,Australia
+540,male,group C,Sprinter,Continental,none,50,45,38,2001-09-14,Australia
+541,female,group C,None,World Tour,none,38,46,35,2000-12-05,North America
+542,female,group D,Sprinter,World Tour,completed,63,64,71,2000-09-24,Australia
+543,female,group C,Cobblestones,World Tour,completed,56,79,82,1994-01-23,Africa
+544,male,group C,Mountain,World Tour,none,66,62,60,2002-05-13,Australia
+545,female,group D,None,World Tour,completed,72,76,79,1995-11-27,Europe
+546,male,group A,Time Trial,Continental,completed,70,83,78,2001-03-28,South America
+547,female,group B,None,World Tour,none,49,54,55,1995-06-06,North America
+548,male,group C,Time Trial,World Tour,completed,55,58,58,1987-09-05,Asia
+549,male,group C,Sprinter,World Tour,completed,63,62,60,1991-12-28,South America
+550,female,group D,Time Trial,World Tour,completed,70,84,86,1991-10-27,Australia
+551,female,group C,Cobblestones,World Tour,completed,85,91,85,1991-06-27,Europe
+552,female,group D,None,Continental,none,24,40,40,2002-02-26,South America
+553,female,group C,Hill,Continental,none,68,85,78,2001-07-04,Australia
+554,male,group C,Cobblestones,Continental,none,33,37,35,2001-01-22,Asia
+555,female,group D,None,World Tour,completed,68,84,85,1998-12-08,South America
+556,male,group C,None,World Tour,none,82,90,86,1988-08-14,Australia
+557,male,group C,Cobblestones,World Tour,completed,82,89,84,1985-04-14,Africa
+558,male,group E,Hill,World Tour,none,81,73,72,1996-05-24,Europe
+559,female,group D,Cobblestones,World Tour,none,62,58,57,1996-02-20,Africa
+560,female,group D,None,Continental,none,53,71,71,1991-05-14,Africa
+561,female,group E,Time Trial,World Tour,none,74,77,72,1999-10-10,Australia
+562,male,group C,Time Trial,World Tour,completed,79,84,78,1995-04-11,Europe
+563,female,group C,Cobblestones,Continental,none,49,64,57,1991-07-19,Asia
+564,female,group C,Time Trial,World Tour,none,80,80,82,1999-05-16,Europe
+565,female,group B,Hill,World Tour,none,81,84,82,1985-06-16,Asia
+566,male,group B,Time Trial,World Tour,completed,98,94,94,1991-12-30,North America
+567,female,group C,Sprinter,World Tour,completed,72,77,81,1986-12-18,Africa
+568,female,group D,Time Trial,Continental,none,41,51,59,2003-08-08,Africa
+569,male,group C,Sprinter,World Tour,none,92,83,80,1998-05-06,North America
+570,male,group D,Time Trial,World Tour,completed,86,85,86,2005-01-29,Australia
+571,female,group E,None,World Tour,none,71,68,66,1999-01-17,Australia
+572,female,group D,Cobblestones,World Tour,completed,73,95,91,1994-08-15,Australia
+573,female,group E,Cobblestones,Continental,none,82,87,81,2000-02-10,Asia
+574,female,group C,None,World Tour,none,65,75,74,2003-02-12,North America
+575,male,group C,None,Continental,none,42,46,39,1991-08-28,Africa
+576,male,group B,Cobblestones,Continental,none,71,60,59,1998-03-02,Australia
+577,male,group C,Cobblestones,Continental,completed,61,62,59,2000-12-05,Africa
+578,female,group E,Hill,Continental,none,33,46,41,1985-05-08,Australia
+579,female,group D,Hill,World Tour,none,67,68,65,1997-02-02,South America
+580,female,group D,Hill,World Tour,none,58,66,68,1997-03-04,Australia
+581,female,group D,Hill,World Tour,none,80,83,85,1996-03-31,Europe
+582,male,group C,None,Continental,none,55,55,55,1987-03-05,Europe
+583,male,group C,Sprinter,Continental,none,61,66,61,1997-09-05,Europe
+584,male,group A,Hill,Continental,completed,76,75,65,2001-12-03,North America
+585,male,group D,None,World Tour,completed,92,91,96,1997-01-14,South America
+586,male,group D,None,World Tour,none,72,54,59,1995-01-30,Europe
+587,female,group D,Time Trial,World Tour,completed,81,85,87,1998-04-21,Europe
+588,male,group C,Time Trial,World Tour,none,81,74,71,1988-03-07,Asia
+589,male,group A,Mountain,World Tour,completed,66,64,68,1996-12-28,Australia
+590,male,group D,Mountain,World Tour,completed,85,73,75,2000-12-05,Asia
+591,male,group D,Hill,Continental,completed,64,64,59,2001-08-31,Africa
+592,male,group C,Hill,Continental,completed,83,88,83,1985-08-16,Asia
+593,male,group E,None,World Tour,none,84,80,73,1996-07-07,Asia
+594,male,group D,Time Trial,World Tour,none,82,66,73,2003-07-16,Australia
+595,male,group B,Sprinter,Continental,none,46,49,48,1992-11-23,Asia
+596,female,group D,None,World Tour,none,51,52,50,1997-10-24,Europe
+597,female,group D,Hill,World Tour,none,68,67,66,1992-09-21,South America
+598,female,group C,Cobblestones,World Tour,none,45,59,53,1994-11-09,North America
+599,male,group B,Cobblestones,World Tour,completed,61,59,57,1998-09-16,North America
+600,female,group D,Sprinter,Continental,none,51,71,69,1996-09-24,Europe
+601,male,group B,Sprinter,World Tour,none,42,51,34,1993-08-02,Australia
+602,female,group A,Hill,World Tour,none,58,71,77,2003-01-04,Asia
+603,female,group D,Cobblestones,World Tour,none,76,84,80,2004-03-09,North America
+604,male,group C,None,World Tour,none,78,80,75,2005-01-14,North America
+605,female,group C,Hill,Continental,completed,67,88,89,1999-10-19,Australia
+606,male,group D,Hill,World Tour,none,57,65,62,1991-11-14,North America
+607,female,group D,Cobblestones,World Tour,none,63,67,70,1986-09-22,North America
+608,male,group C,Cobblestones,World Tour,none,54,55,51,2003-05-26,Africa
+609,male,group E,Hill,World Tour,none,74,64,53,1993-01-18,Australia
+610,female,group D,None,World Tour,none,74,74,78,2003-05-09,Asia
+611,male,group B,Sprinter,Continental,none,40,45,38,1995-06-03,Europe
+612,male,group C,Sprinter,World Tour,none,97,84,82,1991-05-11,Asia
+613,female,group D,None,World Tour,completed,61,69,77,2002-07-26,Europe
+614,female,group D,Hill,World Tour,none,48,62,61,1992-06-25,Europe
+615,male,group C,Time Trial,World Tour,none,61,62,53,1987-07-31,North America
+616,female,group C,Mountain,World Tour,none,69,78,81,1987-09-10,North America
+617,female,group D,Cobblestones,World Tour,none,74,77,80,1995-03-14,Africa
+618,female,group D,None,Continental,completed,47,59,61,1996-10-12,Australia
+619,male,group D,Sprinter,Continental,none,79,76,68,2003-01-03,Asia
+620,male,group E,Time Trial,Continental,none,74,59,53,1990-10-04,Australia
+621,male,group C,Sprinter,Continental,none,59,55,48,2000-02-29,North America
+622,male,group D,None,Continental,completed,60,63,65,1994-06-21,Australia
+623,female,group B,Sprinter,World Tour,none,43,47,49,2002-06-19,Africa
+624,female,group E,Sprinter,World Tour,none,49,59,56,1994-12-23,Asia
+625,female,group C,Time Trial,World Tour,none,51,63,64,2004-07-08,Asia
+626,female,group C,Sprinter,World Tour,none,68,81,74,1985-09-29,Asia
+627,female,group B,Mountain,World Tour,completed,71,83,85,1986-07-23,Australia
+628,female,group B,Sprinter,World Tour,none,63,80,69,2005-09-13,Europe
+629,male,group D,Cobblestones,World Tour,completed,71,68,67,1999-05-23,North America
+630,female,group C,None,World Tour,none,47,66,59,1993-02-25,Asia
+631,female,group D,Sprinter,Continental,completed,49,53,53,2003-07-02,Africa
+632,female,group C,None,World Tour,completed,65,89,88,1997-01-02,Australia
+633,male,group E,Cobblestones,World Tour,none,57,52,44,1990-07-24,South America
+634,male,group D,Cobblestones,World Tour,none,64,66,58,1992-05-26,Australia
+635,female,group C,Sprinter,World Tour,none,62,68,65,1999-05-19,North America
+636,female,group D,None,Continental,none,69,77,73,1991-11-06,Europe
+637,male,group C,Sprinter,Continental,completed,64,68,73,1996-04-13,North America
+638,male,group B,Cobblestones,World Tour,none,53,49,39,1992-10-16,Europe
+639,male,group D,Cobblestones,World Tour,none,82,69,75,1994-09-29,Australia
+640,male,group C,None,World Tour,completed,79,80,79,2001-06-27,South America
+641,male,group C,Sprinter,Continental,none,81,75,75,1990-10-20,South America
+642,female,group E,None,Continental,completed,70,83,84,1993-08-06,Europe
+643,male,group D,Cobblestones,World Tour,none,65,53,56,1987-08-08,Asia
+644,male,group D,None,World Tour,none,53,45,42,1992-03-21,Africa
+645,female,group D,None,Continental,none,58,73,68,1989-06-01,South America
+646,female,group A,Hill,World Tour,none,55,61,61,1991-05-12,North America
+647,female,group B,None,World Tour,completed,61,72,63,1990-08-15,Europe
+648,female,group D,Hill,World Tour,none,75,77,81,1988-12-15,Asia
+649,male,group C,Hill,Continental,none,33,21,17,2003-02-02,Australia
+650,female,group D,Sprinter,World Tour,completed,73,88,90,1990-02-19,Asia
+651,male,group C,Cobblestones,World Tour,none,71,63,58,2000-05-17,Australia
+652,male,group C,Mountain,Continental,none,67,61,59,2005-11-17,Europe
+653,female,group C,Hill,World Tour,none,60,64,66,1995-09-22,Australia
+654,female,group D,Cobblestones,World Tour,none,71,80,75,1996-04-02,South America
+655,male,group C,Sprinter,World Tour,none,71,68,68,1992-01-09,North America
+656,female,group A,Cobblestones,Continental,none,68,81,78,1989-06-26,Europe
+657,male,group D,Hill,World Tour,none,63,59,65,1997-12-11,Asia
+658,female,group A,Cobblestones,World Tour,none,43,57,55,2000-05-15,South America
+659,female,group B,Cobblestones,Continental,completed,44,54,55,2000-08-13,Asia
+660,male,group C,Time Trial,World Tour,completed,94,93,95,1985-01-06,Africa
+661,male,group E,None,Continental,none,81,71,68,2000-02-19,South America
+662,male,group B,Cobblestones,World Tour,none,80,87,78,2002-11-13,North America
+663,female,group C,None,World Tour,none,57,58,66,1994-11-07,South America
+664,female,group B,Hill,Continental,none,49,63,60,2005-11-22,North America
+665,male,group B,Cobblestones,Continental,none,58,60,55,1990-05-08,Australia
+666,female,group D,Hill,Continental,none,77,93,93,1990-05-17,Africa
+667,female,group C,Time Trial,World Tour,none,68,70,67,1996-05-25,Africa
+668,male,group D,Hill,World Tour,none,90,82,77,1994-05-27,Australia
+669,male,group C,Hill,Continental,none,68,66,56,1988-10-24,Africa
+670,female,group A,Time Trial,Continental,none,67,80,81,2001-05-29,Australia
+671,male,group D,Mountain,Continental,none,85,86,84,1989-11-09,Africa
+672,male,group B,Sprinter,World Tour,none,65,51,45,1994-01-23,South America
+673,female,group B,Cobblestones,Continental,completed,53,72,64,1997-10-04,North America
+674,female,group B,Cobblestones,World Tour,none,63,79,75,1995-09-25,Australia
+675,female,group C,None,World Tour,completed,61,69,68,1994-01-01,Africa
+676,male,group D,Cobblestones,World Tour,none,87,79,78,2003-10-08,Asia
+677,female,group C,Hill,World Tour,completed,81,93,95,1990-02-22,North America
+678,female,group B,Sprinter,World Tour,none,44,67,59,1987-03-01,North America
+679,female,group E,Time Trial,Continental,none,51,51,53,2003-09-21,Africa
+680,male,group E,Sprinter,Continental,none,68,58,58,1992-04-27,Australia
+681,female,group B,Hill,Continental,completed,54,58,62,2003-11-23,Europe
+682,male,group B,Mountain,Continental,none,64,54,52,1995-08-08,Africa
+683,male,group B,Sprinter,Continental,completed,53,52,55,1987-12-09,Asia
+684,female,group A,Sprinter,World Tour,completed,82,85,85,2002-11-19,Europe
+685,female,group A,Sprinter,World Tour,none,70,75,75,2004-08-01,Europe
+686,female,group C,None,Continental,none,79,81,85,1986-01-08,Asia
+687,male,group C,Sprinter,Continental,none,84,85,70,1986-12-12,Africa
+688,male,group D,Sprinter,World Tour,none,79,69,68,1990-02-09,Africa
+689,male,group D,Hill,World Tour,completed,89,81,78,2001-12-01,North America
+690,female,group B,Time Trial,World Tour,none,69,85,82,1998-12-24,Europe
+691,female,group B,Sprinter,Continental,completed,67,85,87,2003-03-31,Asia
+692,female,group D,Hill,Continental,none,46,56,57,2002-10-24,North America
+693,male,group B,Hill,World Tour,none,51,61,53,2004-12-05,South America
+694,male,group C,Mountain,World Tour,completed,82,83,85,1992-05-19,Europe
+695,female,group A,Hill,Continental,none,52,62,60,1997-06-24,South America
+696,female,group D,Sprinter,World Tour,completed,50,63,63,1985-07-15,North America
+697,female,group C,Time Trial,World Tour,completed,61,65,68,2001-01-14,Asia
+698,female,group B,Sprinter,World Tour,none,57,64,66,1993-10-09,North America
+699,male,group D,Mountain,World Tour,completed,67,73,63,1991-07-02,Asia
+700,male,group E,Time Trial,World Tour,none,79,65,69,1998-04-14,Australia
+701,female,group C,Sprinter,Continental,none,75,74,76,2003-12-05,Australia
+702,male,group C,Time Trial,World Tour,none,58,53,47,1995-04-21,Australia
+703,male,group B,None,Continental,none,55,54,58,1989-03-23,Europe
+704,male,group A,None,World Tour,none,79,60,57,2000-01-27,Asia
+705,male,group D,Hill,World Tour,none,46,56,53,2000-02-23,South America
+706,female,group D,Cobblestones,World Tour,none,75,80,80,2001-08-30,South America
+707,female,group C,None,Continental,completed,74,84,83,2004-08-31,Australia
+708,female,group D,Hill,Continental,none,66,66,64,2005-12-04,Africa
+709,female,group D,Sprinter,World Tour,none,56,65,69,2000-11-16,Asia
+710,male,group B,None,World Tour,completed,91,95,94,1990-06-22,Asia
+711,female,group A,Cobblestones,World Tour,completed,90,91,98,2001-02-22,Africa
+712,male,group C,None,World Tour,none,77,72,62,1989-05-10,South America
+713,female,group D,Time Trial,World Tour,none,65,66,76,2003-07-28,Europe
+714,male,group D,Mountain,Continental,none,77,72,68,1992-07-23,Australia
+715,female,group C,Time Trial,World Tour,none,61,70,69,1999-11-24,South America
+716,male,group A,Sprinter,Continental,completed,83,80,80,1995-05-30,Africa
+717,male,group A,Sprinter,World Tour,completed,74,70,69,1988-11-05,North America
+718,female,group B,None,World Tour,completed,59,73,75,1985-07-10,Australia
+719,female,group E,Time Trial,World Tour,completed,87,85,89,1986-09-26,South America
+720,male,group C,Time Trial,World Tour,completed,100,89,92,2004-04-01,Asia
+721,female,group C,Mountain,Continental,none,65,71,69,2005-10-29,Asia
+722,male,group B,Time Trial,World Tour,none,63,51,50,2003-09-08,Australia
+723,female,group C,None,Continental,none,46,57,58,1990-11-29,North America
+724,male,group E,Mountain,Continental,completed,93,77,84,1988-11-12,Asia
+725,female,group C,Hill,World Tour,none,94,90,89,2000-12-16,Asia
+726,female,group B,Time Trial,World Tour,none,49,67,62,2002-11-17,Europe
+727,female,group B,Cobblestones,World Tour,none,52,60,53,1989-12-30,Australia
+728,male,group D,Time Trial,World Tour,none,90,86,89,1989-12-22,Asia
+729,female,group C,Time Trial,World Tour,completed,63,72,76,2000-02-11,Australia
+730,male,group D,Cobblestones,World Tour,none,90,82,87,1993-07-28,Australia
+731,female,group A,Hill,World Tour,none,54,60,60,1989-10-12,Australia
+732,male,group D,None,Continental,completed,66,61,66,1998-05-16,Europe
+733,male,group E,None,World Tour,none,62,60,56,1995-08-26,Europe
+734,male,group C,None,World Tour,none,42,28,31,1998-07-14,North America
+735,female,group D,None,World Tour,completed,68,77,78,2001-04-17,Asia
+736,female,group C,Time Trial,World Tour,none,78,81,82,1991-09-24,South America
+737,male,group C,Cobblestones,World Tour,completed,89,87,82,1993-12-23,North America
+738,male,group B,None,Continental,none,79,85,74,1985-01-17,Australia
+739,male,group D,Mountain,Continental,completed,85,91,94,1997-04-26,South America
+740,female,group B,Sprinter,Continental,completed,61,70,65,1992-07-01,South America
+741,female,group C,None,World Tour,none,45,49,42,1993-02-21,Australia
+742,male,group C,None,World Tour,none,77,68,68,1992-09-08,South America
+743,female,group B,Sprinter,World Tour,completed,73,81,78,1993-07-05,North America
+744,male,group C,Sprinter,Continental,completed,70,77,77,1988-06-19,Africa
+745,female,group B,Cobblestones,World Tour,completed,71,86,85,2002-09-16,Europe
+746,male,group B,Time Trial,World Tour,completed,50,53,54,1986-09-16,North America
+747,female,group D,Sprinter,Continental,none,57,69,72,2002-11-09,North America
+748,male,group C,Sprinter,World Tour,completed,65,64,65,1992-03-16,Europe
+749,male,group C,Sprinter,World Tour,none,69,66,57,1998-11-03,Asia
+750,female,group B,Cobblestones,World Tour,none,46,52,50,1996-01-13,South America
+751,male,group C,Time Trial,World Tour,completed,77,80,81,1989-08-22,Africa
+752,female,group C,Time Trial,World Tour,none,56,55,55,1988-09-07,Africa
+753,male,group B,Sprinter,World Tour,none,78,77,70,1995-11-10,Asia
+754,male,group E,None,World Tour,none,90,76,65,2005-05-18,South America
+755,female,group C,None,Continental,completed,63,79,81,1988-07-22,Europe
+756,female,group B,Cobblestones,Continental,none,33,37,41,1993-08-16,South America
+757,male,group C,Mountain,World Tour,completed,93,84,85,2000-04-03,South America
+758,male,group B,None,World Tour,completed,83,92,91,1990-10-03,Europe
+759,female,group D,Sprinter,Continental,none,52,56,58,1998-12-28,North America
+760,female,group C,Mountain,World Tour,completed,69,74,82,1996-03-26,Africa
+761,female,group C,None,World Tour,none,83,80,82,1996-11-01,Australia
+762,female,group D,Mountain,Continental,none,34,46,48,1991-05-28,Africa
+763,female,group B,Cobblestones,World Tour,completed,45,55,56,2005-09-16,South America
+764,male,group C,Hill,Continental,completed,67,64,66,1995-03-23,Europe
+765,male,group E,Time Trial,World Tour,none,100,90,81,2000-05-16,North America
+766,female,group C,Sprinter,World Tour,none,79,92,87,2004-03-07,North America
+767,female,group B,Sprinter,World Tour,completed,65,83,81,1999-12-20,Europe
+768,male,group A,Hill,World Tour,none,54,56,51,2005-02-28,Africa
+769,male,group D,None,World Tour,none,84,83,82,1999-02-28,Europe
+770,female,group B,Sprinter,World Tour,none,59,70,72,2001-07-21,North America
+771,female,group C,Time Trial,Continental,completed,60,74,72,1994-02-24,Australia
+772,male,group C,None,Continental,none,71,79,75,1989-02-26,Australia
+773,female,group C,Hill,World Tour,none,67,80,73,1994-10-12,Australia
+774,female,group E,None,World Tour,none,78,87,88,1985-04-16,Africa
+775,male,group D,Sprinter,World Tour,completed,80,69,79,1996-11-22,Africa
+776,male,group B,None,World Tour,completed,64,62,68,1999-10-01,Australia
+777,female,group A,None,World Tour,none,56,60,63,1999-10-22,Asia
+778,male,group D,Mountain,World Tour,none,82,74,76,2004-06-24,Africa
+779,male,group C,Hill,World Tour,completed,76,80,82,1990-08-30,Asia
+780,female,group D,Hill,Continental,completed,63,80,85,1988-08-20,Asia
+781,male,group B,Mountain,Continental,none,76,65,63,2001-05-18,Australia
+782,male,group C,Hill,Continental,none,47,48,43,1990-03-04,Asia
+783,female,group C,Sprinter,Continental,none,54,61,62,1996-01-29,Africa
+784,male,group D,Time Trial,World Tour,completed,70,59,63,1988-08-08,Asia
+785,male,group C,Time Trial,World Tour,completed,81,69,75,2001-12-05,Africa
+786,male,group C,Hill,World Tour,none,68,71,64,1995-11-06,Africa
+787,female,group C,Cobblestones,World Tour,none,47,58,57,1990-03-05,Europe
+788,female,group B,Cobblestones,World Tour,none,68,89,78,1997-10-30,Asia
+789,female,group B,Hill,World Tour,none,54,73,70,1994-09-27,Asia
+790,female,group E,Sprinter,World Tour,none,70,78,69,2000-07-18,North America
+791,male,group D,Sprinter,World Tour,none,64,57,64,1998-02-15,Asia
+792,male,group B,Mountain,Continental,none,75,74,65,2001-07-13,South America
+793,female,group C,None,World Tour,none,41,40,38,1996-01-26,Africa
+794,female,group C,Hill,Continental,none,77,75,75,2000-09-02,Africa
+795,female,group B,None,World Tour,completed,61,60,66,1996-10-17,Africa
+796,female,group B,Sprinter,World Tour,none,45,49,45,1992-11-04,Europe
+797,male,group C,Cobblestones,World Tour,none,47,42,41,1988-03-02,North America
+798,female,group B,None,World Tour,completed,92,96,100,2000-08-26,Europe
+799,male,group C,Cobblestones,World Tour,completed,72,68,63,2001-11-04,North America
+800,female,group C,Cobblestones,World Tour,none,62,73,71,1992-06-03,Australia
+801,male,group A,Sprinter,World Tour,none,84,76,72,1995-02-05,Asia
+802,male,group C,Sprinter,Continental,none,38,45,44,2000-10-06,Europe
+803,male,group D,Mountain,World Tour,none,58,62,60,1992-04-08,Asia
+804,female,group E,Hill,World Tour,none,62,68,60,1997-10-08,Africa
+805,male,group D,Time Trial,Continental,none,59,52,51,2003-11-07,South America
+806,female,group A,Time Trial,Continental,completed,39,52,57,1993-07-07,Australia
+807,female,group B,Hill,World Tour,none,70,77,76,1990-02-07,Europe
+808,male,group B,Sprinter,World Tour,none,63,55,52,1985-06-18,Asia
+809,male,group E,Hill,World Tour,none,73,74,75,1996-09-04,Europe
+810,male,group C,Sprinter,World Tour,completed,85,97,92,1990-08-24,South America
+811,male,group E,Hill,Continental,completed,76,74,74,1987-06-08,Africa
+812,female,group C,Hill,World Tour,completed,86,100,99,1988-02-04,South America
+813,female,group D,None,Continental,completed,46,62,63,1990-06-23,North America
+814,male,group E,None,World Tour,completed,85,88,82,1999-04-23,Africa
+815,female,group D,Sprinter,World Tour,completed,80,92,90,1997-10-15,Asia
+816,male,group C,Hill,Continental,completed,51,59,56,1989-04-16,Australia
+817,male,group D,Sprinter,Continental,completed,52,41,49,1998-06-16,Europe
+818,male,group D,Sprinter,World Tour,none,83,87,83,2000-06-28,Europe
+819,male,group E,Hill,Continental,completed,66,68,65,1994-08-01,Asia
+820,male,group B,None,World Tour,none,62,64,53,1995-01-13,Asia
+821,male,group C,Hill,Continental,none,85,77,81,1991-03-16,South America
+822,female,group E,Cobblestones,Continental,none,63,75,66,2002-01-17,Asia
+823,female,group E,Cobblestones,World Tour,none,77,80,80,1989-10-15,North America
+824,female,group E,Sprinter,World Tour,none,78,83,82,1990-11-18,Australia
+825,female,group D,Sprinter,World Tour,none,53,75,70,1997-03-05,Australia
+826,male,group D,None,World Tour,completed,72,74,68,2000-09-26,Asia
+827,male,group D,Cobblestones,Continental,none,77,77,74,2000-06-07,Asia
+828,male,group D,None,World Tour,completed,74,70,71,1993-03-04,Europe
+829,male,group B,Cobblestones,World Tour,none,80,74,73,1992-03-31,Africa
+830,male,group C,Hill,World Tour,none,72,62,54,2002-02-23,South America
+831,male,group D,Cobblestones,World Tour,none,91,79,79,1989-01-12,North America
+832,female,group D,None,Continental,none,55,80,74,2005-10-14,Asia
+833,female,group C,Mountain,Continental,none,36,55,48,2001-09-18,Africa
+834,female,group B,Cobblestones,World Tour,none,42,50,53,2004-11-26,Africa
+835,male,group C,Hill,World Tour,completed,92,91,90,2003-09-26,Australia
+836,female,group D,Cobblestones,World Tour,none,87,88,86,1993-07-19,Europe
+837,female,group D,None,World Tour,completed,53,65,66,1999-12-22,Asia
+838,female,group B,Cobblestones,Continental,none,38,47,49,2000-06-16,Africa
+839,female,group C,Cobblestones,World Tour,completed,70,72,74,1994-10-23,Australia
+840,female,group C,Sprinter,World Tour,none,85,87,88,1994-07-09,North America
+841,male,group B,Time Trial,World Tour,completed,60,51,54,1995-10-19,North America
+842,female,group C,None,World Tour,none,40,52,48,1985-11-02,South America
+843,male,group B,Mountain,Continental,none,69,77,73,1999-05-23,Africa
+844,male,group D,None,Continental,none,66,66,72,1998-05-10,Australia
+845,female,group D,None,Continental,none,51,69,62,1991-07-30,Australia
+846,female,group B,Hill,World Tour,none,58,50,56,1996-06-18,Asia
+847,male,group B,Cobblestones,World Tour,completed,77,64,69,1989-02-19,North America
+848,female,group C,Sprinter,World Tour,completed,66,75,78,2004-03-11,Asia
+849,male,group D,Time Trial,World Tour,completed,71,65,68,1993-09-08,North America
+850,male,group D,Hill,World Tour,none,89,89,89,1991-08-26,Australia
+851,male,group A,Sprinter,Continental,none,41,35,28,2002-05-13,Europe
+852,male,group C,Sprinter,World Tour,none,62,57,58,1992-01-05,Europe
+853,male,group E,Sprinter,Continental,completed,82,76,78,2003-06-01,South America
+854,male,group D,Mountain,Continental,none,74,61,65,1986-12-15,Africa
+855,female,group B,Cobblestones,Continental,none,53,75,63,1990-03-10,North America
+856,male,group C,Time Trial,World Tour,none,72,73,72,1986-10-13,Africa
+857,male,group C,Mountain,Continental,none,48,45,45,1997-12-16,North America
+858,male,group A,None,World Tour,none,67,56,56,2003-08-09,Australia
+859,male,group C,Mountain,World Tour,none,76,80,72,1988-03-25,North America
+860,male,group C,Cobblestones,World Tour,none,71,63,58,2005-09-02,South America
+861,female,group A,Sprinter,World Tour,none,54,70,67,2001-07-28,Asia
+862,female,group C,Hill,World Tour,none,59,65,65,1988-05-25,Asia
+863,male,group B,None,World Tour,completed,61,61,54,1987-02-15,North America
+864,male,group D,Mountain,Continental,none,80,79,74,1999-05-27,Europe
+865,female,group B,Cobblestones,World Tour,none,67,71,64,1990-05-29,Africa
+866,male,group E,Time Trial,Continental,none,57,60,52,1996-12-26,Australia
+867,male,group C,Sprinter,Continental,none,56,59,50,1999-04-18,South America
+868,female,group B,Sprinter,World Tour,none,60,69,66,2005-04-10,North America
+869,female,group D,Sprinter,Continental,none,51,58,57,1986-03-03,Australia
+870,male,group C,Mountain,World Tour,completed,53,52,52,1989-08-29,North America
+871,female,group E,None,World Tour,none,49,51,51,1990-09-30,Africa
+872,male,group A,Cobblestones,World Tour,none,70,64,61,1985-03-27,Europe
+873,male,group D,None,Continental,completed,72,68,71,1998-05-24,South America
+874,female,group D,Hill,Continental,none,57,63,62,1999-11-05,Australia
+875,female,group D,Cobblestones,World Tour,none,50,56,54,2003-01-05,South America
+876,male,group C,Cobblestones,Continental,completed,53,47,52,1989-11-11,Australia
+877,male,group D,Mountain,Continental,none,60,55,54,2002-09-06,Europe
+878,female,group E,Sprinter,World Tour,completed,81,88,89,1995-02-23,South America
+879,male,group D,Hill,Continental,completed,84,85,86,1986-11-08,Australia
+880,male,group C,Hill,Continental,none,54,60,60,2002-04-15,Africa
+881,female,group E,Sprinter,World Tour,none,83,96,92,1999-03-11,Asia
+882,male,group D,Cobblestones,World Tour,completed,64,41,50,2000-08-16,Africa
+883,female,group B,Hill,World Tour,none,68,71,67,1994-04-24,Australia
+884,female,group E,Sprinter,World Tour,none,86,89,85,1994-07-17,Asia
+885,female,group D,Hill,World Tour,none,93,94,98,1994-04-16,Europe
+886,male,group D,Time Trial,Continental,none,69,70,66,1999-03-19,Australia
+887,male,group C,Time Trial,World Tour,none,76,69,71,1990-05-09,Europe
+888,female,group C,None,Continental,none,29,45,45,1989-08-31,Africa
+889,male,group C,Time Trial,World Tour,none,56,59,52,1986-02-01,Europe
+890,male,group D,Hill,World Tour,completed,68,67,70,1989-05-19,South America
+891,female,group D,Cobblestones,World Tour,none,43,45,47,1985-05-27,South America
+892,female,group B,Sprinter,Continental,none,48,55,59,1989-04-14,Asia
+893,female,group B,Sprinter,Continental,none,68,73,73,1995-03-06,Europe
+894,male,group D,Hill,Continental,none,69,76,75,2003-10-24,Africa
+895,female,group C,Time Trial,World Tour,none,68,75,74,1999-09-19,Australia
+896,female,group D,None,World Tour,completed,89,87,93,1995-06-22,Africa
+897,female,group C,Hill,Continental,none,64,73,71,2003-11-28,South America
+898,female,group A,Time Trial,Continental,none,69,71,74,1989-08-31,Asia
+899,female,group E,Time Trial,World Tour,none,80,91,84,1990-09-10,North America
+900,female,group D,Time Trial,World Tour,none,72,68,77,2005-11-08,South America
+901,male,group C,None,Continental,none,59,62,52,1987-09-08,South America
+902,male,group B,None,Continental,none,47,43,38,2004-09-26,Asia
+903,female,group C,Sprinter,World Tour,none,79,88,87,1994-07-03,Asia
+904,female,group D,None,World Tour,completed,68,83,82,1990-10-24,Europe
+905,female,group B,Cobblestones,World Tour,none,43,56,53,2000-07-25,Europe
+906,male,group E,Cobblestones,World Tour,none,64,60,54,1991-10-26,North America
+907,male,group B,None,Continental,none,55,63,57,1997-04-13,South America
+908,male,group C,Cobblestones,World Tour,completed,58,53,57,1990-11-07,Australia
+909,female,group D,Hill,World Tour,completed,74,87,85,1992-07-07,North America
+910,female,group B,None,World Tour,none,61,78,70,1993-03-18,Europe
+911,female,group C,None,World Tour,none,56,60,59,1987-04-17,Australia
+912,male,group C,Sprinter,World Tour,completed,71,60,71,1997-02-16,Europe
+913,male,group D,Hill,World Tour,none,79,75,74,1992-05-07,Europe
+914,female,group B,Time Trial,World Tour,completed,59,76,69,1997-12-21,South America
+915,female,group C,None,World Tour,completed,61,82,77,2005-11-24,Africa
+916,male,group C,Time Trial,Continental,completed,76,74,76,1998-08-13,Europe
+917,male,group C,None,World Tour,none,88,88,80,1994-03-16,Asia
+918,male,group D,Hill,World Tour,completed,85,88,90,1987-08-06,North America
+919,female,group C,Hill,Continental,none,60,70,69,2003-05-13,Africa
+920,female,group C,None,World Tour,completed,54,62,69,1999-07-24,Asia
+921,female,group D,Hill,World Tour,none,84,100,97,1990-03-25,Asia
+922,female,group C,None,World Tour,completed,79,86,90,1987-10-28,North America
+923,female,group D,Hill,World Tour,none,79,85,89,1991-04-05,Asia
+924,male,group E,None,World Tour,none,93,84,82,1989-05-06,Asia
+925,female,group A,Hill,World Tour,none,83,89,92,1997-03-25,Africa
+926,male,group A,None,Continental,completed,68,76,75,2005-09-28,Australia
+927,male,group C,Sprinter,World Tour,none,70,56,52,2001-12-10,Asia
+928,male,group E,Time Trial,Continental,completed,84,75,73,1985-08-07,Africa
+929,female,group D,Cobblestones,Continental,none,52,66,68,1987-06-30,North America
+930,female,group B,Sprinter,World Tour,completed,51,65,63,2003-07-12,Europe
+931,male,group C,None,World Tour,completed,69,64,61,2003-11-13,Australia
+932,male,group D,None,World Tour,none,74,71,64,1989-08-10,Africa
+933,male,group A,Sprinter,Continental,none,49,44,40,1991-12-16,Africa
+934,female,group B,Cobblestones,Continental,none,52,66,67,1986-05-21,South America
+935,female,group D,None,World Tour,none,50,59,55,1993-06-13,Asia
+936,male,group D,Cobblestones,World Tour,none,61,60,59,2004-05-25,Australia
+937,male,group C,Sprinter,World Tour,none,87,86,73,1999-07-13,South America
+938,female,group C,Time Trial,World Tour,none,75,84,85,1997-05-14,Australia
+939,male,group C,None,Continental,completed,73,70,64,1985-10-16,Asia
+940,female,group C,Hill,World Tour,completed,70,87,84,1987-05-16,Australia
+941,male,group D,Time Trial,World Tour,none,92,92,91,1996-11-14,Asia
+942,male,group B,Hill,World Tour,none,83,81,74,1989-02-05,Africa
+943,male,group A,Hill,Continental,completed,73,82,77,1999-03-29,Europe
+944,female,group C,Cobblestones,World Tour,completed,70,85,80,1994-04-12,Europe
+945,male,group A,Mountain,World Tour,none,77,72,73,2005-07-02,Europe
+946,female,group E,Time Trial,World Tour,completed,67,73,80,1988-01-15,Australia
+947,female,group A,Cobblestones,World Tour,none,74,80,80,1993-04-03,South America
+948,female,group D,None,World Tour,none,53,58,56,2001-07-09,North America
+949,male,group B,None,World Tour,none,69,66,62,2004-12-09,Australia
+950,female,group D,Hill,Continental,completed,55,68,67,1991-05-28,Australia
+951,female,group C,Cobblestones,World Tour,none,46,62,61,2000-06-16,Africa
+952,female,group C,Mountain,World Tour,none,62,66,75,1994-05-07,Asia
+953,male,group B,Cobblestones,World Tour,none,39,43,38,1993-10-23,South America
+954,male,group C,None,World Tour,none,70,67,63,1997-01-26,South America
+955,male,group D,Sprinter,Continental,completed,59,61,60,1997-04-19,Australia
+956,female,group D,Cobblestones,World Tour,none,69,78,76,1985-09-14,Australia
+957,female,group D,Sprinter,Continental,none,41,55,59,1993-07-27,Europe
+958,female,group D,Cobblestones,Continental,none,66,74,76,2004-07-30,South America
+959,female,group C,Hill,World Tour,none,76,83,77,1993-03-24,Europe
+960,male,group D,Time Trial,Continental,none,49,43,44,1994-03-17,Asia
+961,female,group E,Cobblestones,World Tour,none,64,65,67,1999-09-01,Africa
+962,male,group D,Sprinter,World Tour,completed,69,69,71,2003-03-21,Africa
+963,female,group A,Cobblestones,World Tour,completed,67,73,73,2002-10-28,North America
+964,female,group E,Sprinter,World Tour,completed,67,60,65,2004-11-04,Europe
+965,female,group D,Sprinter,World Tour,none,71,64,69,2002-07-22,Africa
+966,male,group B,Time Trial,World Tour,none,70,66,58,1993-01-18,Africa
+967,male,group D,Time Trial,Continental,none,85,82,81,1989-03-01,Europe
+968,male,group E,Time Trial,World Tour,none,83,84,81,1992-07-23,North America
+969,male,group C,Cobblestones,World Tour,none,57,43,42,1986-01-24,Asia
+970,male,group E,None,Continental,none,91,87,81,1992-09-29,Australia
+971,male,group C,Mountain,World Tour,none,67,69,65,2002-01-28,North America
+972,male,group C,Time Trial,World Tour,none,48,37,38,1985-12-09,South America
+973,male,group E,Sprinter,World Tour,completed,100,81,79,1991-03-13,Europe
+974,male,group C,Hill,Continental,none,70,74,66,1988-04-14,Europe
+975,male,group C,Time Trial,Continental,none,74,70,62,1987-10-27,South America
+976,female,group C,None,World Tour,none,74,73,83,1996-12-12,North America
+977,male,group D,Hill,World Tour,none,75,74,66,2001-03-18,Australia
+978,female,group B,None,World Tour,none,71,75,75,1997-09-16,Australia
+979,female,group D,Sprinter,World Tour,none,85,91,88,2003-04-25,Australia
+980,male,group E,Hill,Continental,none,75,68,66,1997-11-22,Europe
+981,male,group D,None,Continental,none,67,65,67,2001-07-10,Europe
+982,male,group A,Hill,Continental,none,75,65,65,1991-01-27,North America
+983,female,group B,None,World Tour,completed,94,100,100,1996-08-03,Australia
+984,male,group D,Time Trial,World Tour,none,79,80,78,1993-08-15,South America
+985,male,group E,Time Trial,World Tour,none,100,97,94,2005-07-11,Europe
+986,female,group B,Time Trial,World Tour,completed,56,73,69,2003-06-21,Australia
+987,male,group C,Sprinter,World Tour,none,75,71,67,1993-04-18,Asia
+988,female,group B,Hill,Continental,none,57,64,68,2004-07-25,North America
+989,male,group C,None,Continental,none,59,46,42,1994-12-08,North America
+990,male,group B,Time Trial,Continental,none,82,88,82,1998-09-08,Africa
+991,female,group C,None,World Tour,completed,68,78,77,1992-11-06,North America
+992,female,group C,None,World Tour,completed,60,67,68,2003-04-26,Africa
+993,female,group D,Sprinter,Continental,completed,68,87,86,1986-03-21,Asia
+994,female,group A,Cobblestones,Continental,completed,61,69,70,1987-07-24,Europe
+995,female,group B,Hill,World Tour,none,62,66,69,1987-11-28,Africa
+996,female,group D,None,World Tour,none,64,77,77,1995-05-20,Asia
+997,female,group C,None,World Tour,completed,71,89,86,2000-10-09,Asia
+998,female,group C,None,World Tour,none,63,65,69,1988-07-04,North America
+999,female,group C,Time Trial,World Tour,none,60,61,61,1991-03-16,North America
